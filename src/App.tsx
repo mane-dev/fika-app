@@ -8,8 +8,7 @@ import {
   YAxis,
   CartesianGrid,
   Tooltip,
-  ResponsiveContainer,
-  LineChart 
+  ResponsiveContainer
 } from "recharts";
 
 interface CoffeeData {
