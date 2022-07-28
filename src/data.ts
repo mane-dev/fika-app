@@ -1,4 +1,4 @@
-/* eslint-disable no-debugger, no-console */
+/* eslint no-sparse-arrays: 0 */
 export const data = [
   [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
   [0.03496813774108887, 6.72, 0.27, 4.3, 7.8913, 5.0, 9.0],
